@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bardr98
 - 🌱 I’m currently learning electrical engineering
 - 🌱 I'm doing some projects on c, python, arduino and much more!
-------check out my projects-------
+
 - 📫 How to reach me : Bar.dr98@gmail.com
 
 <!---
