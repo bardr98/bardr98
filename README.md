@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @bardr98
-- 🌱 I’m currently learning electrical engineering
-- 🌱 I'm doing some projects on c, python, arduino and much more!
+<div align="left">
+<h2> Hi, I’m @bardr98! </h2>
+I’m currently learning electrical engineering
+and working on some side projects for fun.
+</div>
+<br>
 
-- 📫 How to reach me : Bar.dr98@gmail.com
+## Languages:
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="80"><img src="http://content.arduino.cc/brand/arduino-color.svg" width="80"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80"><img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" width="80">
 
-<!---
-bardr98/bardr98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<div align="left">
+<h2>How to reach me:</h2>
+📫 - Bar.dr98@gmail.com
+</div>
+<br>
