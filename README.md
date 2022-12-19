@@ -1,7 +1,7 @@
 <div align="left">
 <h2> Hi, I’m @bardr98! </h2>
 I am an electrical engineering student,
-working on some side projects for fun.
+working on some side projects.
 </div>
 <br>
 
