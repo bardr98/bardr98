@@ -1,5 +1,5 @@
 <div align="left">
-<h2> Hi, I’m @bardr98! </h2>
+<h2> Hi, I’m Bar! </h2>
 
 - I am an ambitious and detail-oriented electrical engineering student with strong analytical and creative problem-solving skills. 
 
