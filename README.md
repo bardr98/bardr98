@@ -1,9 +1,10 @@
 <div align="left">
 <h2> Hi, I’m @bardr98! </h2>
-I am an ambitious and detail-oriented electrical engineering student with strong analytical and creative problem-solving skills. 
-I have completed various projects that demonstrate my expertise in AI, Logic Design, Micro-Controller Programming, and Hardware Design. 
-I have utilized programming tools like Python, Verilog, Arduino IDE, and C++. 
-For more information on these projects, please visit my GitHub repositories.
+- I am an ambitious and detail-oriented electrical engineering student with strong analytical and creative problem-solving skills. 
+- I have completed various projects that demonstrate my expertise in AI, Logic Design, Micro-Controller Programming, and Hardware Design. 
+- I have utilized programming tools like Python, Verilog, Arduino IDE, and C++. 
+
+- For more information on these projects, please visit my GitHub repositories.
 </div>
 <br>
 
